@@ -1,0 +1,71 @@
+
+
+.box { 
+    width: 300px;
+    height: 50px;
+    background-color: rgb(56, 194, 194);
+    padding: auto;
+    margin: auto;
+    border: 10px solid rgb(119, 139, 226);
+}
+
+.ı-box {
+
+    width: 10;
+    height: 10;
+    background-color: white;
+    border: 3px solid red;
+    padding: auto;
+    margin: auto;
+
+
+}
+
+.r-box {
+
+    width: 10;
+    height: 10;
+    background-color: white;
+    border: 3px solid black;
+    padding: auto;
+    margin: auto;
+
+
+}
+
+
+.center {  
+   text-align: center ;
+}
+
+.left300 {
+    text-align:300px;
+}
+
+.font-60 {
+    font-size: 60px;
+}
+
+.font-40 { 
+    font-size: 40px;
+}
+
+.font-20 {
+    font-size: 20px;
+}
+
+.font-30 {
+    font-size: 30px;
+}
+
+.font-red { 
+    color: rgb(255, 0, 0);
+}
+
+.font-blue {
+    color: blue;
+}
+
+.li-center {
+    list-style-position: inside ;
+}
